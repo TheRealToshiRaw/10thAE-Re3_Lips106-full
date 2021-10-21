@@ -21,7 +21,7 @@ _just replace LIPS.wav on your ux0:data/gta3/audio
 (tested and works correctly as is on any Vita version of your game.)
 
 
-LIPS106 full (21:49 - 1536 Kbps - 239 Mo)
+### LIPS106 full (21:49 - 1536 Kbps - 239 Mo):
 
 00:00 -> 01:13 Skit  
 01:14 -> 03:24 Bump To The Music - Fatamarse  
