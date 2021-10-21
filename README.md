@@ -13,8 +13,8 @@ you have to stay legal and i am not responsible for what you do  ;)
 
 Radios on gta3 has changed through different iterations of the game,  
 here is the complete LIPS106 iconic tracklist;  
-(according to https://gta.fandom.com/wiki/Lips_106#Tracklist  
-and https://gta.fandom.com/fr/wiki/Stations_de_radio_dans_GTA_III#LIPS_106 )
+(according to https://gta.fandom.com/wiki/Radio_Stations_in_GTA_III#Lips_106  
+and https://gta.fandom.com/fr/wiki/Lips_106#Grand_Theft_Auto_III )  
 
 
 _just replace LIPS.wav on your ux0:data/gta3/audio  
