@@ -9,7 +9,7 @@ Buy your own copy of the game, Developers need to be paid and fully supported fo
 you have to stay legal and i am not responsible for what you do  ;)
 
 
-# Now let's feel the original taste of LIPS106 by DJ Andee:
+# Now let's feel the original taste of LIPS106 hosted by DJ Andee:
 
 Radios on gta3 has changed through different iterations of the game,  
 here is the complete LIPS106 iconic tracklist;  
@@ -21,7 +21,7 @@ _just replace LIPS.wav on your ux0:data/gta3/audio
 (tested and works correctly as is on any Vita version of your game.)
 
 
-### LIPS106 full (21:49 - 1536 Kbps - 239 Mo):
+### LIPS 106 full (21:49 - 1536 Kbps - 239 Mo):
 
 00:00 -> 01:13 Skit  
 01:14 -> 03:24 Bump To The Music - Fatamarse (made by Craig Conner)  
