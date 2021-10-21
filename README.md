@@ -24,17 +24,17 @@ _just replace LIPS.wav on your ux0:data/gta3/audio
 ### LIPS106 full (21:49 - 1536 Kbps - 239 Mo):
 
 00:00 -> 01:13 Skit  
-01:14 -> 03:24 Bump To The Music - Fatamarse  
+01:14 -> 03:24 Bump To The Music - Fatamarse (made by Craig Conner)  
 03:25 -> 05:07 Skit  
-05:08 -> 06:48 Wash Him Off - Marydancin'  
+05:08 -> 06:48 Wash Him Off - Marydancin' (made by Craig Conner)  
 06:49 -> 07:13 Skit  
-07:14 -> 10:29 Feels Like I Just Can't Take No More - April's In Paris  
-10:30 -> 13:20 Forever - Lucy  
+07:14 -> 10:29 Feels Like I Just Can't Take No More - April's In Paris (made by Craig Conner)  
+10:30 -> 13:20 Forever - Lucy (made by Stuart Ross)  
 13:21 -> 13:27 Skit  
-13:28 -> 17:08 Pray It Goes Ok? - Boyz 2 Girls  
+13:28 -> 17:08 Pray It Goes Ok? - Boyz 2 Girls (made by Craig Conner)  
 17:09 -> 17:18 Skit  
-17:19 -> 19:15 Grand Theft Auto - Da Shootaz  
+17:19 -> 19:15 Grand Theft Auto - Da Shootaz (made by Craig Conner & Robert DeNegro)  
 19:16 -> 19:21 Skit  
-19:22 -> 21:49 Rubber Tip - Funky Bjs + Skit  
+19:22 -> 21:49 Rubber Tip - Funky Bjs (made by Stuart Ross) + Skit  
 
 TheRealToshiRaw_ 2021
