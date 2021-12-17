@@ -5,7 +5,8 @@ This repository was made for the conservation of video-gaming History;
 because Art needs to be saved for our collective remembering.  
 If licensed the material belongs to its owner.
 
-Buy your own copy of the game, Developers need to be paid and fully supported for their job,  
+Buy your own copy of the game;  
+Developers need to be paid and fully supported for their job,  
 you have to stay legal and i am not responsible for what you do  ;)
 
 
